@@ -1,3 +1,3 @@
-# PDNA Housing Dashboard — Kobo Live Version
+# PDNA Housing Dashboard — Phase 2.1
 
-Reads submissions directly from KoboToolbox. Keep the Kobo API token only in Streamlit Secrets, never in GitHub.
+Live KoboToolbox connection. Adds EC$ labels and robust handling of Kobo group-prefixed field names for construction typology and GPS.
